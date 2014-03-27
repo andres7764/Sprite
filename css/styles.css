@@ -1,0 +1,46 @@
+body
+{
+	background-color: white;
+	font-size: 14px;
+	font-family: Arial;
+	font-weight: bold;
+}
+
+#monacho
+{
+  width: 113px;
+  height: 256px;
+  border: 1px solid red;
+}
+
+#mon{
+ padding-left: 70px;
+}
+
+.li {
+    background: url('../img/muneco.png') no-repeat top left;
+}
+
+.sprite-1{ 
+	background-position: 0 0; 
+	width: 113px;
+	height: 256px; 
+} 
+
+.sprite-2{ 
+	background-position: -163px 0; 
+	width: 120px; 
+	height: 259px; 
+} 
+
+.sprite-3{ 
+	background-position: -333px 0; 
+	width: 120px; 
+	height: 260px; 
+} 
+
+.sprite-4{ 
+	background-position: -503px 0; 
+	width: 118px; 
+	height: 260px; 
+} 
